@@ -121,11 +121,11 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 | Repository | Description | Language | Stars |
 | --- | --- | --- | ---: |
-| [ritik-portfolio](https://github.com/Ritikyadav1/ritik-portfolio) | — | TypeScript | 1 |
-| [bulk-ip-checker](https://github.com/Ritikyadav1/bulk-ip-checker) | — | TypeScript | 1 |
-| [ai-code-security-engineer](https://github.com/Ritikyadav1/ai-code-security-engineer) | — | TypeScript | 1 |
-| [Universal-safe-archive-analyzer](https://github.com/Ritikyadav1/Universal-safe-archive-analyzer) | — | TypeScript | 1 |
-| [Travel-website-backend](https://github.com/Ritikyadav1/Travel-website-backend) | — | TypeScript | 1 |
+| [ritik-portfolio](https://github.com/Ritikyadav1/ritik-portfolio) | Animated personal portfolio: Next.js, TypeScript, Tailwind and Framer Motion with live GitHub data | TypeScript | 1 |
+| [bulk-ip-checker](https://github.com/Ritikyadav1/bulk-ip-checker) | Bulk threat-intel lookups for IPs, URLs and hashes via VirusTotal and AbuseIPDB, with IR-ready reports | TypeScript | 1 |
+| [ai-code-security-engineer](https://github.com/Ritikyadav1/ai-code-security-engineer) | AI-assisted code security scanning: static analysis, secrets and dependency checks with a triage workflow | TypeScript | 1 |
+| [Universal-safe-archive-analyzer](https://github.com/Ritikyadav1/Universal-safe-archive-analyzer) | Sandboxed Electron app for safely unpacking and analyzing malicious ZIP, TAR and 7z archives | TypeScript | 1 |
+| [Travel-website-backend](https://github.com/Ritikyadav1/Travel-website-backend) | NestJS REST API backend for a travel website (user management) | TypeScript | 1 |
 
 ## Contact
 
