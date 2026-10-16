@@ -1,8 +1,10 @@
 """Regenerate assets/activity-{dark,light}.svg from the public GitHub contribution calendar,
-and sync the yearly total into the stats cards and README alt text.
+fill the stats cards from the GitHub REST API, and sync the README alt text.
 
-Usage: python3 scripts/update_activity.py [user]
+Usage: python3 scripts/update_activity.py [user]   (uses $GITHUB_TOKEN if set)
 """
+import json
+import os
 import re
 import sys
 import urllib.request
@@ -58,22 +60,53 @@ def render(weeks, year_total, p):
 '''
 
 
+def fetch(url, api=False):
+    headers = {"User-Agent": "update-activity"}
+    if api and os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    return urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30).read().decode()
+
+
+def repo_stats():
+    """Return (public repo count, total stars, repos with stars, distinct primary languages of non-forks)."""
+    repos, page = [], 1
+    while batch := json.loads(fetch(f"https://api.github.com/users/{USER}/repos?type=owner&per_page=100&page={page}", api=True)):
+        repos += batch
+        page += 1
+    own = [r for r in repos if not r["fork"]]
+    return (len(repos), sum(r["stargazers_count"] for r in repos),
+            sum(1 for r in repos if r["stargazers_count"]), len({r["language"] for r in own} - {None}))
+
+
+def set_card(svg, label, value, sub):
+    """Replace the big number and subtitle of the stats card titled `label`."""
+    return re.sub(rf"({label}</text><text[^>]*>)[^<]*(</text><text[^>]*>)[^<]*<",
+                  rf"\g<1>{value}\g<2>{sub}<", svg)
+
+
 def main():
-    req = urllib.request.Request(f"https://github.com/users/{USER}/contributions", headers={"User-Agent": "update-activity"})
-    html = urllib.request.urlopen(req, timeout=30).read().decode()
+    html = fetch(f"https://github.com/users/{USER}/contributions")
     dates, counts = parse(html)
     weeks = weekly(dates, counts)
     year_total = sum(counts.get(c, 0) for c in dates)
     assert len(weeks) == WEEKS, f"expected {WEEKS} weeks, got {len(weeks)}"
     assert sum(c for _, c in weeks) <= year_total
+    n_repos, stars, starred, langs = repo_stats()
     for name, palette in PALETTES.items():
         (ASSETS / f"activity-{name}.svg").write_text(render(weeks, year_total, palette))
-        # Keep the stats card's CONTRIBUTIONS figure in sync with the chart.
         stats = ASSETS / f"stats-{name}.svg"
-        stats.write_text(re.sub(r"(CONTRIBUTIONS</text><text[^>]*>)\d+<", rf"\g<1>{year_total}<", stats.read_text()))
+        svg = stats.read_text()
+        svg = set_card(svg, "REPOSITORIES", n_repos, "public")
+        svg = set_card(svg, "STARS EARNED", stars, f"across {starred} repo{'s' * (starred != 1)}")
+        svg = set_card(svg, "CONTRIBUTIONS", year_total, "last 12 months")
+        svg = set_card(svg, "LANGUAGES", langs, "primary, across own repos")
+        stats.write_text(svg)
     readme = ASSETS.parent / "README.md"
-    readme.write_text(re.sub(r"\d+ contributions,", f"{year_total} contributions,", readme.read_text()))
-    print(f"{year_total} contributions in the last year; last {WEEKS} weeks: {[c for _, c in weeks]}")
+    readme.write_text(re.sub(r"\d+ repositories, \d+ stars, \d+ contributions, \d+\+? languages",
+                             f"{n_repos} repositories, {stars} stars, {year_total} contributions, {langs} languages",
+                             readme.read_text()))
+    print(f"{n_repos} repos, {stars} stars ({starred} repos), {langs} languages, "
+          f"{year_total} contributions; last {WEEKS} weeks: {[c for _, c in weeks]}")
 
 
 if __name__ == "__main__":
