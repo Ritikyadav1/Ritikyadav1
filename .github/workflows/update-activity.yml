@@ -22,7 +22,7 @@ jobs:
         run: |
           git add assets README.md
           git diff --cached --quiet && exit 0
-          git config user.name "github-actions[bot]"
-          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Ritik Yadav"
+          git config user.email "ritikyadav10032004@gmail.com"
           git commit -m "Update profile stats"
           git push
