@@ -32,64 +32,57 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-423a6a?style=flat-square&logo=javascript&logoColor=b5abfc&labelColor=232532)
-![TypeScript](https://img.shields.io/badge/TypeScript-423a6a?style=flat-square&logo=typescript&logoColor=b5abfc&labelColor=232532)
-![Python](https://img.shields.io/badge/Python-423a6a?style=flat-square&logo=python&logoColor=b5abfc&labelColor=232532)
-![Java](https://img.shields.io/badge/Java-423a6a?style=flat-square&logo=openjdk&logoColor=b5abfc&labelColor=232532)
-![C++](https://img.shields.io/badge/C%2B%2B-423a6a?style=flat-square&logo=cplusplus&logoColor=b5abfc&labelColor=232532)
-![C](https://img.shields.io/badge/C-423a6a?style=flat-square&logo=c&logoColor=b5abfc&labelColor=232532)
-![R](https://img.shields.io/badge/R-423a6a?style=flat-square&logo=r&logoColor=b5abfc&labelColor=232532)
+![JavaScript](https://img.shields.io/badge/JavaScript-423a6a?style=flat-square&logo=javascript&logoColor=b5abfc&labelColor=232532 "Used in 33 repos")
+![TypeScript](https://img.shields.io/badge/TypeScript-423a6a?style=flat-square&logo=typescript&logoColor=b5abfc&labelColor=232532 "Used in 16 repos")
+![Python](https://img.shields.io/badge/Python-423a6a?style=flat-square&logo=python&logoColor=b5abfc&labelColor=232532 "Used in 9 repos")
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-423a6a?style=flat-square&logo=react&logoColor=b5abfc&labelColor=232532)
-![Redux](https://img.shields.io/badge/Redux-423a6a?style=flat-square&logo=redux&logoColor=b5abfc&labelColor=232532)
-![Tailwind](https://img.shields.io/badge/Tailwind-423a6a?style=flat-square&logo=tailwindcss&logoColor=b5abfc&labelColor=232532)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-423a6a?style=flat-square&logo=bootstrap&logoColor=b5abfc&labelColor=232532)
-![MUI](https://img.shields.io/badge/MUI-423a6a?style=flat-square&logo=mui&logoColor=b5abfc&labelColor=232532)
-![Vite](https://img.shields.io/badge/Vite-423a6a?style=flat-square&logo=vite&logoColor=b5abfc&labelColor=232532)
-![Angular.js](https://img.shields.io/badge/Angular.js-423a6a?style=flat-square&logo=angularjs&logoColor=b5abfc&labelColor=232532)
-![HTML5](https://img.shields.io/badge/HTML5-423a6a?style=flat-square&logo=html5&logoColor=b5abfc&labelColor=232532)
-![CSS3](https://img.shields.io/badge/CSS3-423a6a?style=flat-square&logo=css3&logoColor=b5abfc&labelColor=232532)
+![CSS3](https://img.shields.io/badge/CSS3-423a6a?style=flat-square&logo=css3&logoColor=b5abfc&labelColor=232532 "Used in 20 repos")
+![HTML5](https://img.shields.io/badge/HTML5-423a6a?style=flat-square&logo=html5&logoColor=b5abfc&labelColor=232532 "Used in 16 repos")
+![React](https://img.shields.io/badge/React-423a6a?style=flat-square&logo=react&logoColor=b5abfc&labelColor=232532 "Used in 11 repos")
+![Vite](https://img.shields.io/badge/Vite-423a6a?style=flat-square&logo=vite&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
+![Tailwind](https://img.shields.io/badge/Tailwind-423a6a?style=flat-square&logo=tailwindcss&logoColor=b5abfc&labelColor=232532 "Used in 5 repos")
+![Redux](https://img.shields.io/badge/Redux-423a6a?style=flat-square&logo=redux&logoColor=b5abfc&labelColor=232532 "Used in 4 repos")
+![Next.js](https://img.shields.io/badge/Next.js-423a6a?style=flat-square&logo=nextdotjs&logoColor=b5abfc&labelColor=232532 "Used in 3 repos")
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-423a6a?style=flat-square&logo=framer&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-423a6a?style=flat-square&logo=bootstrap&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Electron](https://img.shields.io/badge/Electron-423a6a?style=flat-square&logo=electron&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-423a6a?style=flat-square&logo=nodedotjs&logoColor=b5abfc&labelColor=232532)
-![Express](https://img.shields.io/badge/Express-423a6a?style=flat-square&logo=express&logoColor=b5abfc&labelColor=232532)
-![NestJS](https://img.shields.io/badge/NestJS-423a6a?style=flat-square&logo=nestjs&logoColor=b5abfc&labelColor=232532)
-![Django](https://img.shields.io/badge/Django-423a6a?style=flat-square&logo=django&logoColor=b5abfc&labelColor=232532)
-![JWT](https://img.shields.io/badge/JWT-423a6a?style=flat-square&logo=jsonwebtokens&logoColor=b5abfc&labelColor=232532)
+![Node.js](https://img.shields.io/badge/Node.js-423a6a?style=flat-square&logo=nodedotjs&logoColor=b5abfc&labelColor=232532 "Used in 24 repos")
+![NestJS](https://img.shields.io/badge/NestJS-423a6a?style=flat-square&logo=nestjs&logoColor=b5abfc&labelColor=232532 "Used in 8 repos")
+![JWT](https://img.shields.io/badge/JWT-423a6a?style=flat-square&logo=jsonwebtokens&logoColor=b5abfc&labelColor=232532 "Used in 8 repos")
+![Express](https://img.shields.io/badge/Express-423a6a?style=flat-square&logo=express&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
+![EJS](https://img.shields.io/badge/EJS-423a6a?style=flat-square&logo=ejs&logoColor=b5abfc&labelColor=232532 "Used in 4 repos")
+![Swagger](https://img.shields.io/badge/Swagger-423a6a?style=flat-square&logo=swagger&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
 
 **Data**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-423a6a?style=flat-square&logo=mongodb&logoColor=b5abfc&labelColor=232532)
-![MySQL](https://img.shields.io/badge/MySQL-423a6a?style=flat-square&logo=mysql&logoColor=b5abfc&labelColor=232532)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-423a6a?style=flat-square&logo=postgresql&logoColor=b5abfc&labelColor=232532)
-![SQLite](https://img.shields.io/badge/SQLite-423a6a?style=flat-square&logo=sqlite&logoColor=b5abfc&labelColor=232532)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-423a6a?style=flat-square&logo=elasticsearch&logoColor=b5abfc&labelColor=232532)
+![MongoDB](https://img.shields.io/badge/MongoDB-423a6a?style=flat-square&logo=mongodb&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
+![TypeORM](https://img.shields.io/badge/TypeORM-423a6a?style=flat-square&logo=typeorm&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
+![MySQL](https://img.shields.io/badge/MySQL-423a6a?style=flat-square&logo=mysql&logoColor=b5abfc&labelColor=232532 "Used in 5 repos")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-423a6a?style=flat-square&logo=postgresql&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Redis](https://img.shields.io/badge/Redis-423a6a?style=flat-square&logo=redis&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-423a6a?style=flat-square&logo=tensorflow&logoColor=b5abfc&labelColor=232532)
-![PyTorch](https://img.shields.io/badge/PyTorch-423a6a?style=flat-square&logo=pytorch&logoColor=b5abfc&labelColor=232532)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-423a6a?style=flat-square&logo=scikitlearn&logoColor=b5abfc&labelColor=232532)
-![OpenCV](https://img.shields.io/badge/OpenCV-423a6a?style=flat-square&logo=opencv&logoColor=b5abfc&labelColor=232532)
-![NumPy](https://img.shields.io/badge/NumPy-423a6a?style=flat-square&logo=numpy&logoColor=b5abfc&labelColor=232532)
-![Pandas](https://img.shields.io/badge/Pandas-423a6a?style=flat-square&logo=pandas&logoColor=b5abfc&labelColor=232532)
-![Plotly](https://img.shields.io/badge/Plotly-423a6a?style=flat-square&logo=plotly&logoColor=b5abfc&labelColor=232532)
+![PyTorch](https://img.shields.io/badge/PyTorch-423a6a?style=flat-square&logo=pytorch&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![scikit-learn](https://img.shields.io/badge/scikit--learn-423a6a?style=flat-square&logo=scikitlearn&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![OpenCV](https://img.shields.io/badge/OpenCV-423a6a?style=flat-square&logo=opencv&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![DeepFace](https://img.shields.io/badge/DeepFace-423a6a?style=flat-square&labelColor=232532 "Used in 1 repo")
+![NumPy](https://img.shields.io/badge/NumPy-423a6a?style=flat-square&logo=numpy&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Pandas](https://img.shields.io/badge/Pandas-423a6a?style=flat-square&logo=pandas&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Matplotlib](https://img.shields.io/badge/Matplotlib-423a6a?style=flat-square&labelColor=232532 "Used in 1 repo")
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532)
-![Docker](https://img.shields.io/badge/Docker-423a6a?style=flat-square&logo=docker&logoColor=b5abfc&labelColor=232532)
-![Postman](https://img.shields.io/badge/Postman-423a6a?style=flat-square&logo=postman&logoColor=b5abfc&labelColor=232532)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-423a6a?style=flat-square&logo=githubactions&logoColor=b5abfc&labelColor=232532)
-![Jest](https://img.shields.io/badge/Jest-423a6a?style=flat-square&logo=jest&logoColor=b5abfc&labelColor=232532)
-![Selenium](https://img.shields.io/badge/Selenium-423a6a?style=flat-square&logo=selenium&logoColor=b5abfc&labelColor=232532)
-![Vercel](https://img.shields.io/badge/Vercel-423a6a?style=flat-square&logo=vercel&logoColor=b5abfc&labelColor=232532)
-![Netlify](https://img.shields.io/badge/Netlify-423a6a?style=flat-square&logo=netlify&logoColor=b5abfc&labelColor=232532)
-![Figma](https://img.shields.io/badge/Figma-423a6a?style=flat-square&logo=figma&logoColor=b5abfc&labelColor=232532)
-![Power BI](https://img.shields.io/badge/Power%20BI-423a6a?style=flat-square&logo=powerbi&logoColor=b5abfc&labelColor=232532)
+![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532 "Used in 47 repos")
+![Jest](https://img.shields.io/badge/Jest-423a6a?style=flat-square&logo=jest&logoColor=b5abfc&labelColor=232532 "Used in 9 repos")
+![Vercel](https://img.shields.io/badge/Vercel-423a6a?style=flat-square&logo=vercel&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
+![Docker](https://img.shields.io/badge/Docker-423a6a?style=flat-square&logo=docker&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Vitest](https://img.shields.io/badge/Vitest-423a6a?style=flat-square&logo=vitest&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 ## Architecture
 
@@ -112,10 +105,10 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 ## Now learning
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/learning-light.svg">
-  <img src="assets/learning-dark.svg" alt="Learning progress: MERN 80%, AI/ML 55%, DSA 60%, LLMs 30%" width="100%">
-</picture>
+- **MERN stack** — active
+- **AI / ML** — active
+- **DSA** — ongoing
+- **LLMs / Gen AI** — started
 
 ## Top repos
 
@@ -130,6 +123,6 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-423a6a?style=flat-square&logo=linkedin&logoColor=b5abfc&labelColor=232532)](https://www.linkedin.com/in/ritik-yadav-194022289/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-423a6a?style=flat-square&logo=firefox&logoColor=b5abfc&labelColor=232532)](https://ritik-portfolio-five.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-423a6a?style=flat-square&logo=firefox&logoColor=b5abfc&labelColor=232532)](https://my-portfolio-three-steel-53.vercel.app)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-423a6a?style=flat-square&logo=stackoverflow&logoColor=b5abfc&labelColor=232532)](https://stackoverflow.com/users/25759124/ritik-yadav)
 [![Pinterest](https://img.shields.io/badge/Pinterest-423a6a?style=flat-square&logo=pinterest&logoColor=b5abfc&labelColor=232532)](https://pinterest.com/ritikyadav10032004)
