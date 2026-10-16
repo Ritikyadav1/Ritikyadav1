@@ -1,4 +1,5 @@
-"""Regenerate assets/activity-{dark,light}.svg from the public GitHub contribution calendar.
+"""Regenerate assets/activity-{dark,light}.svg from the public GitHub contribution calendar,
+and sync the yearly total into the stats cards and README alt text.
 
 Usage: python3 scripts/update_activity.py [user]
 """
@@ -67,6 +68,11 @@ def main():
     assert sum(c for _, c in weeks) <= year_total
     for name, palette in PALETTES.items():
         (ASSETS / f"activity-{name}.svg").write_text(render(weeks, year_total, palette))
+        # Keep the stats card's CONTRIBUTIONS figure in sync with the chart.
+        stats = ASSETS / f"stats-{name}.svg"
+        stats.write_text(re.sub(r"(CONTRIBUTIONS</text><text[^>]*>)\d+<", rf"\g<1>{year_total}<", stats.read_text()))
+    readme = ASSETS.parent / "README.md"
+    readme.write_text(re.sub(r"\d+ contributions,", f"{year_total} contributions,", readme.read_text()))
     print(f"{year_total} contributions in the last year; last {WEEKS} weeks: {[c for _, c in weeks]}")
 
 
