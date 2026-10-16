@@ -107,7 +107,7 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-  <img src="assets/languages-dark.svg" alt="Language breakdown" width="100%">
+  <img src="assets/languages-dark.svg" alt="Primary languages: TypeScript 37%, JavaScript 26%, Python 12%, HTML 9%, Other 16%" width="100%">
 </picture>
 
 ## Now learning
@@ -121,11 +121,11 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 | Repository | Description | Language | Stars |
 | --- | --- | --- | ---: |
-| [face-seeker-](https://github.com/Ritikyadav1/face-seeker-) | Face identification and DB matching | Jupyter Notebook | 1 |
-| [social_media_application](https://github.com/Ritikyadav1/social_media_application) | Full-stack social media app | EJS / Node.js | 1 |
-| [Ritik_portfolio](https://github.com/Ritikyadav1/Ritik_portfolio) | Personal portfolio website | CSS / HTML | 1 |
-| [Travel-website-backend](https://github.com/Ritikyadav1/Travel-website-backend) | Travel platform REST API | TypeScript | 1 |
-| [contact-management-system](https://github.com/Ritikyadav1/contact-management-system) | CLI contact manager | Python | — |
+| [ritik-portfolio](https://github.com/Ritikyadav1/ritik-portfolio) | — | TypeScript | 1 |
+| [bulk-ip-checker](https://github.com/Ritikyadav1/bulk-ip-checker) | — | TypeScript | 1 |
+| [ai-code-security-engineer](https://github.com/Ritikyadav1/ai-code-security-engineer) | — | TypeScript | 1 |
+| [Universal-safe-archive-analyzer](https://github.com/Ritikyadav1/Universal-safe-archive-analyzer) | — | TypeScript | 1 |
+| [Travel-website-backend](https://github.com/Ritikyadav1/Travel-website-backend) | — | TypeScript | 1 |
 
 ## Contact
 
