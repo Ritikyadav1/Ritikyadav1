@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="49 repositories, 8 stars, 91 contributions, 7 languages" width="100%">
+  <img src="assets/stats-dark.svg" alt="50 repositories, 8 stars, 93 contributions, 7 languages" width="100%">
 </picture>
 
 </div>
@@ -34,7 +34,7 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-423a6a?style=flat-square&logo=javascript&logoColor=b5abfc&labelColor=232532 "Used in 33 repos")
 ![TypeScript](https://img.shields.io/badge/TypeScript-423a6a?style=flat-square&logo=typescript&logoColor=b5abfc&labelColor=232532 "Used in 16 repos")
-![Python](https://img.shields.io/badge/Python-423a6a?style=flat-square&logo=python&logoColor=b5abfc&labelColor=232532 "Used in 9 repos")
+![Python](https://img.shields.io/badge/Python-423a6a?style=flat-square&logo=python&logoColor=b5abfc&labelColor=232532 "Used in 10 repos")
 
 **Frontend**
 
@@ -57,14 +57,15 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 ![Express](https://img.shields.io/badge/Express-423a6a?style=flat-square&logo=express&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
 ![EJS](https://img.shields.io/badge/EJS-423a6a?style=flat-square&logo=ejs&logoColor=b5abfc&labelColor=232532 "Used in 4 repos")
 ![Swagger](https://img.shields.io/badge/Swagger-423a6a?style=flat-square&logo=swagger&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
+![Django](https://img.shields.io/badge/Django-423a6a?style=flat-square&logo=django&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 **Data**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-423a6a?style=flat-square&logo=mongodb&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
 ![TypeORM](https://img.shields.io/badge/TypeORM-423a6a?style=flat-square&logo=typeorm&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
 ![MySQL](https://img.shields.io/badge/MySQL-423a6a?style=flat-square&logo=mysql&logoColor=b5abfc&labelColor=232532 "Used in 5 repos")
+![Redis](https://img.shields.io/badge/Redis-423a6a?style=flat-square&logo=redis&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-423a6a?style=flat-square&logo=postgresql&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
-![Redis](https://img.shields.io/badge/Redis-423a6a?style=flat-square&logo=redis&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 **AI / ML**
 
@@ -78,10 +79,10 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532 "Used in 47 repos")
+![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532 "Used in 48 repos")
 ![Jest](https://img.shields.io/badge/Jest-423a6a?style=flat-square&logo=jest&logoColor=b5abfc&labelColor=232532 "Used in 9 repos")
 ![Vercel](https://img.shields.io/badge/Vercel-423a6a?style=flat-square&logo=vercel&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
-![Docker](https://img.shields.io/badge/Docker-423a6a?style=flat-square&logo=docker&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Docker](https://img.shields.io/badge/Docker-423a6a?style=flat-square&logo=docker&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
 ![Vitest](https://img.shields.io/badge/Vitest-423a6a?style=flat-square&logo=vitest&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 ## Architecture
@@ -100,7 +101,7 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-  <img src="assets/languages-dark.svg" alt="Primary languages: TypeScript 37%, JavaScript 26%, Python 12%, HTML 9%, Other 16%" width="100%">
+  <img src="assets/languages-dark.svg" alt="Primary languages: TypeScript 36%, JavaScript 25%, Python 14%, HTML 9%, Other 16%" width="100%">
 </picture>
 
 ## Now learning
