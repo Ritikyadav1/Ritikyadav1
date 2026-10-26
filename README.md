@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="50 repositories, 8 stars, 93 contributions, 7 languages" width="100%">
+  <img src="assets/stats-dark.svg" alt="50 repositories, 8 stars, 94 contributions, 7 languages" width="100%">
 </picture>
 
 </div>
