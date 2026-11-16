@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="50 repositories, 8 stars, 96 contributions, 7 languages" width="100%">
+  <img src="assets/stats-dark.svg" alt="51 repositories, 8 stars, 98 contributions, 7 languages" width="100%">
 </picture>
 
 </div>
@@ -32,17 +32,17 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-423a6a?style=flat-square&logo=javascript&logoColor=b5abfc&labelColor=232532 "Used in 33 repos")
+![JavaScript](https://img.shields.io/badge/JavaScript-423a6a?style=flat-square&logo=javascript&logoColor=b5abfc&labelColor=232532 "Used in 34 repos")
 ![TypeScript](https://img.shields.io/badge/TypeScript-423a6a?style=flat-square&logo=typescript&logoColor=b5abfc&labelColor=232532 "Used in 16 repos")
 ![Python](https://img.shields.io/badge/Python-423a6a?style=flat-square&logo=python&logoColor=b5abfc&labelColor=232532 "Used in 10 repos")
 
 **Frontend**
 
-![CSS3](https://img.shields.io/badge/CSS3-423a6a?style=flat-square&logo=css3&logoColor=b5abfc&labelColor=232532 "Used in 20 repos")
-![HTML5](https://img.shields.io/badge/HTML5-423a6a?style=flat-square&logo=html5&logoColor=b5abfc&labelColor=232532 "Used in 16 repos")
-![React](https://img.shields.io/badge/React-423a6a?style=flat-square&logo=react&logoColor=b5abfc&labelColor=232532 "Used in 11 repos")
-![Vite](https://img.shields.io/badge/Vite-423a6a?style=flat-square&logo=vite&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
-![Tailwind](https://img.shields.io/badge/Tailwind-423a6a?style=flat-square&logo=tailwindcss&logoColor=b5abfc&labelColor=232532 "Used in 5 repos")
+![CSS3](https://img.shields.io/badge/CSS3-423a6a?style=flat-square&logo=css3&logoColor=b5abfc&labelColor=232532 "Used in 21 repos")
+![HTML5](https://img.shields.io/badge/HTML5-423a6a?style=flat-square&logo=html5&logoColor=b5abfc&labelColor=232532 "Used in 17 repos")
+![React](https://img.shields.io/badge/React-423a6a?style=flat-square&logo=react&logoColor=b5abfc&labelColor=232532 "Used in 12 repos")
+![Vite](https://img.shields.io/badge/Vite-423a6a?style=flat-square&logo=vite&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
+![Tailwind](https://img.shields.io/badge/Tailwind-423a6a?style=flat-square&logo=tailwindcss&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
 ![Redux](https://img.shields.io/badge/Redux-423a6a?style=flat-square&logo=redux&logoColor=b5abfc&labelColor=232532 "Used in 4 repos")
 ![Next.js](https://img.shields.io/badge/Next.js-423a6a?style=flat-square&logo=nextdotjs&logoColor=b5abfc&labelColor=232532 "Used in 3 repos")
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-423a6a?style=flat-square&logo=framer&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
@@ -51,17 +51,17 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-423a6a?style=flat-square&logo=nodedotjs&logoColor=b5abfc&labelColor=232532 "Used in 24 repos")
+![Node.js](https://img.shields.io/badge/Node.js-423a6a?style=flat-square&logo=nodedotjs&logoColor=b5abfc&labelColor=232532 "Used in 25 repos")
+![Express](https://img.shields.io/badge/Express-423a6a?style=flat-square&logo=express&logoColor=b5abfc&labelColor=232532 "Used in 8 repos")
 ![NestJS](https://img.shields.io/badge/NestJS-423a6a?style=flat-square&logo=nestjs&logoColor=b5abfc&labelColor=232532 "Used in 8 repos")
 ![JWT](https://img.shields.io/badge/JWT-423a6a?style=flat-square&logo=jsonwebtokens&logoColor=b5abfc&labelColor=232532 "Used in 8 repos")
-![Express](https://img.shields.io/badge/Express-423a6a?style=flat-square&logo=express&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
 ![EJS](https://img.shields.io/badge/EJS-423a6a?style=flat-square&logo=ejs&logoColor=b5abfc&labelColor=232532 "Used in 4 repos")
 ![Swagger](https://img.shields.io/badge/Swagger-423a6a?style=flat-square&logo=swagger&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
 ![Django](https://img.shields.io/badge/Django-423a6a?style=flat-square&logo=django&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 **Data**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-423a6a?style=flat-square&logo=mongodb&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
+![MongoDB](https://img.shields.io/badge/MongoDB-423a6a?style=flat-square&logo=mongodb&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
 ![TypeORM](https://img.shields.io/badge/TypeORM-423a6a?style=flat-square&logo=typeorm&logoColor=b5abfc&labelColor=232532 "Used in 6 repos")
 ![MySQL](https://img.shields.io/badge/MySQL-423a6a?style=flat-square&logo=mysql&logoColor=b5abfc&labelColor=232532 "Used in 5 repos")
 ![Redis](https://img.shields.io/badge/Redis-423a6a?style=flat-square&logo=redis&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
@@ -79,11 +79,12 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532 "Used in 48 repos")
+![Git](https://img.shields.io/badge/Git-423a6a?style=flat-square&logo=git&logoColor=b5abfc&labelColor=232532 "Used in 49 repos")
 ![Jest](https://img.shields.io/badge/Jest-423a6a?style=flat-square&logo=jest&logoColor=b5abfc&labelColor=232532 "Used in 9 repos")
 ![Vercel](https://img.shields.io/badge/Vercel-423a6a?style=flat-square&logo=vercel&logoColor=b5abfc&labelColor=232532 "Used in 7 repos")
 ![Docker](https://img.shields.io/badge/Docker-423a6a?style=flat-square&logo=docker&logoColor=b5abfc&labelColor=232532 "Used in 2 repos")
 ![Vitest](https://img.shields.io/badge/Vitest-423a6a?style=flat-square&logo=vitest&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
+![Netlify](https://img.shields.io/badge/Netlify-423a6a?style=flat-square&logo=netlify&logoColor=b5abfc&labelColor=232532 "Used in 1 repo")
 
 ## Architecture
 
@@ -101,7 +102,7 @@ Full-stack developer. MERN, NestJS, TypeScript. Exploring ML and LLMs. Building 
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-  <img src="assets/languages-dark.svg" alt="Primary languages: TypeScript 36%, JavaScript 25%, Python 14%, HTML 9%, Other 16%" width="100%">
+  <img src="assets/languages-dark.svg" alt="Primary languages: TypeScript 36%, JavaScript 27%, Python 13%, HTML 9%, Other 16%" width="100%">
 </picture>
 
 ## Now learning
